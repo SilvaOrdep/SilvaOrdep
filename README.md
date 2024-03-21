@@ -2,7 +2,7 @@
 
 <!--tÃ­tulo add mais tarde-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Silva;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Silva;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 
