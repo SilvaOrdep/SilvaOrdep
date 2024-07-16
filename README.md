@@ -45,8 +45,7 @@
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
