@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Spring, Maven, React**
+- 🌱 I’m currently learning **Spring, Maven, React and Databases**
 
 ##  Main Skills
 <!-- Skills: Programming Languages -->
