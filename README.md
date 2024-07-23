@@ -22,7 +22,13 @@
 
 
 <!-- Links -->
+- 🌱 I’m currently learning **Spring, Maven, React**
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://linkedin.com/in/ordepsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ordepsilva" height="30" width="40" /></a>
+<a href="https://instagram.com/notaatow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notaatow" height="30" width="40" /></a>
+</p>
 
 <!-- GIF -->
 
