@@ -35,7 +35,7 @@
 <div style="flex-basis: 48%;">
     <h3>Database</h3> 
   
-<img width=50 src="https://www.marcus-povey.co.uk/wp-content/mariadb.png" alt="mariadb">
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 
 </div>
