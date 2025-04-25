@@ -26,7 +26,7 @@
 <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=git,react,maven,spring)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,npm,maven,postman,bootstrap,react,spring,nodejs,express)](https://skillicons.dev)
     
   
 </div>
@@ -35,10 +35,18 @@
 <div style="flex-basis: 48%;">
     <h3>Database</h3> 
   
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)](https://skillicons.dev)
 
 
 </div>
 
+<!-- Skills: So's -->
+<div style="flex-basis: 48%;">
+    <h3>OS</h3> 
+  
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+
+
+</div>
 
 
