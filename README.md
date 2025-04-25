@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Silva;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Silva;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 <!-- GithubStats -->
 
@@ -45,7 +45,7 @@
     <h3>OS</h3> 
   
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
-
+<sup>and manjaro</sup>
 
 </div>
 
