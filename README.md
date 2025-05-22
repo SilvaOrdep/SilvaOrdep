@@ -44,7 +44,7 @@
 <div style="flex-basis: 48%;">
     <h3>OS</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,windows)](https://skillicons.dev)
 <img src="https://static-00.iconduck.com/assets.00/manjaro-logo-icon-2048x2026-a02997jg.png" width="48"/> 
 
 </div>
