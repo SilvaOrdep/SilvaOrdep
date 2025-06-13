@@ -26,7 +26,7 @@
 <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=git,npm,maven,postman,bootstrap,react,spring,nodejs,express)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postman,bootstrap,npm,react,nodejs,express,maven,spring)](https://skillicons.dev)
     
   
 </div>
