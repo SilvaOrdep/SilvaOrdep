@@ -10,7 +10,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **DB II, Computer Networks, data structures...**
+- 🌱 I’m currently learning **JSF, mobile programming, advanced javascript...**
 
 ##  Main Skills
 <!-- Skills: Programming Languages -->
