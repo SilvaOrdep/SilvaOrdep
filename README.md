@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Silva;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+=%29)](https://git.io/typing-svg)
+SOU O MAIOR MAMADOR DE SALVador, MAMO NO STIEP E NO CAMINHO DAS ARVORES
 
 <!-- GithubStats -->
 
