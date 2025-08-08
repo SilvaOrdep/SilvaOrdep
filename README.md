@@ -10,7 +10,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Distributed computing, mobile programming, advanced java...**
+- 🌱 I’m currently learning **Distributed computing, mobile programming, advanced oop...**
 
 ##  Main Skills
 <!-- Skills: Programming Languages -->
