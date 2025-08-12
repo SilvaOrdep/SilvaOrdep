@@ -45,7 +45,7 @@
     <h3>OS</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=windows,kali,ubuntu,arch)](https://skillicons.dev)
-<img src="https://static-00.iconduck.com/assets.00/manjaro-logo-icon-2048x2026-a02997jg.png" width="48"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/2048px-Manjaro-logo.svg.png" width="48"/> 
 
 </div>
 
