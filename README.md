@@ -18,6 +18,9 @@ Desenvolvedor Back-end e estudante de Engenharia de Software. Tenho experiência
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
+![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
 **Utilidades**
 
