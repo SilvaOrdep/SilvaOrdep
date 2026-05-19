@@ -6,14 +6,14 @@ Desenvolvedor Back-end e estudante de Engenharia de Software. Tenho experiência
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6&v=1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -43,5 +43,5 @@ Desenvolvedor Back-end e estudante de Engenharia de Software. Tenho experiência
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-ordepsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ordepsilva/)](https://www.linkedin.com/in/ordepsilva/)
-[![Gmail Badge](https://img.shields.io/badge/-pedro.o.silva975@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.o.silva975@gmail.com)](mailto:pedro.o.silva975@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-ordepsilva-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ordepsilva/&v=1)](https://www.linkedin.com/in/ordepsilva/)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.o.silva975@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:pedro.o.silva975@gmail.com&v=1)](mailto:pedro.o.silva975@gmail.com)
