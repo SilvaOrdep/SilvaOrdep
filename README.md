@@ -8,6 +8,8 @@ Desenvolvedor Back-end e estudante de Engenharia de Software. Tenho experiência
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
